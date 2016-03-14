@@ -1,1 +1,3 @@
-# Welcome, please visit my [homepage](http://omidreyhani.github.io).
+## Welcome to my github page.
+
+Please visit my [wiki](wiki) for my personal technical notes.
