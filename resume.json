@@ -10,8 +10,8 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Minsk, Belarus",
-      "countryCode": "BY",
+      "city": "Minsk",
+      "countryCode": "Belarus",
       "region": ""
     },
     "profiles": [
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "company": "ProntoSoft",
+      "company": "Pronto Soft",
       "position": "Senior Software Engineer",
       "website": "http://irr.ru",
       "startDate": "2015-05-01",
