@@ -260,6 +260,16 @@
         "Maven"
       ]
     },
+	{
+      "name": "Patterns",
+      "level": "",
+      "keywords": [
+        "MVC",
+        "CQRS",
+        "Event sourcing",
+        "Micro services"       
+      ]
+    },
     {
       "name": "",
       "level": "",
