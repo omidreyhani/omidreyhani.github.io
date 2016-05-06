@@ -1,0 +1,298 @@
+{
+  "basics": {
+    "name": "Omid Reyhani",
+    "label": "Software Engineer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAM_AAAAJGU1MzBmZmFlLWUwNzAtNGIxOC1iMWFhLTk3YzllNjc2MDFhYQ.jpg",
+    "email": "omid.reyhani@gmail.com",
+    "phone": "+375 (29) 98-29-887",
+    "website": "http://omidreyhani.github.io/",
+    "summary": "Seasoned IT professional with 7+ years of Software Development with special focus on analysis, design and development of client/server, web based and n-tier applications. Strong professional expertise in .Net and JavaScript. Deep knowledge and advanced level of skills in WCF, Design patterns and Multithreading. Experienced in database modeling, design and writing SQL queries. Proven record of success in gathering customer requirements, planning, design and development of the product. Successfully resolved a number of challenges that led to the performance improvement. Ability to work within strict deadlines, self-motivated, conscientious and responsible. Strong analytical and problem-solving skills aimed at improvement efficiency of the solutions implemented. Quick learner, adapts to changing business needs and environment quickly.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Minsk, Belarus",
+      "countryCode": "BY",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/reyhani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Epam Systems",
+      "position": "Senior Engineer",
+      "website": "https://epam.com",
+      "startDate": "2015-05-01",
+      "endDate": "2016-07-01",
+      "summary": "Development of a Calculation Engine for an insurance company",
+      "highlights": [
+        "Developing web services using WCF",
+        "Solely responsible for developing frontend UI with angularjs and .net web api",
+        "Designing and developing databases",
+        "Deployment and maintenance of software products",
+        "CI using TFS build server and octopus",
+        "Implementing unit and integration tests",
+        "Daily meeting with customers from USA",
+        "Technologies and Tools: TFS, Microsoft SQL Server, .NET, WCF, C#, AngularJs"
+      ]
+    },
+    {
+      "company": "ProntoSoft",
+      "position": "Senior Software Engineer",
+      "website": "irr.ru",
+      "startDate": "2015-05-01",
+      "endDate": "2014-05-01",
+      "summary": "Development for irr.ru web site",
+      "highlights": [
+        "Performed technical analysis of latest technologies",
+        "Provided basic guideline for E2E and unit testing",
+        "Implemented business requirements using JavaScript",
+        "Technologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJs, AngularJS, ExtJs, LESS, Twitter Bootstrap"
+      ]
+    },
+    {
+      "company": "Top Soft",
+      "position": "Senior Engineer",
+      "website": "http://www.galaktika.ru/en/",
+      "startDate": "2012-09-01",
+      "endDate": "2013-11-01",
+      "summary": " HTML5 Applications for Tablets (jQuery mobile)",
+      "highlights": [
+        "Developed services using WCF",
+        "Built an interface for generating MDX queries to OLAP databases",
+        "Technologies and Tools: SQL Server, MS SQL Analysis Services, jQuery, d3js, ExtJs OLAP, MDX, SSAS .NET, C#, WCF"
+      ]
+    },
+    {
+      "company": "Noor etisal",
+      "position": "Key Software Developer",
+      "website": "",
+      "startDate": "2011-05-01",
+      "endDate": "2012-05-01",
+      "summary": "Business Evaluation Software and Project Management",
+      "highlights": [
+        "Developed application logic using C#",
+        "Was responsible for designing and coding",
+        "Performed unit testing",
+        "Technologies and Tools: Microsoft SQL Server, .NET, WPF, ASP.NET, C#"
+      ]
+    },
+    {
+      "company": "Khobre Pardaz Pars Co.Ltd",
+      "position": "Key Software Developer",
+      "website": "http://kpp.ir/",
+      "startDate": "2010-03-01",
+      "endDate": "2011-03-01",
+      "summary": "Bank lottery application \\n ",
+      "highlights": [
+        "Was responsible for requirement gathering for product design and application development",
+        "Implemented business logic inside stored procedures, inside c# application",
+        "Performed extensive database programming (sync data with bank, lottery algorithms implementations)",
+        "Was engaged in designing reports using Crystal Report",
+        "Designed a complete new interface for existing ERP application / Silverlight whiteboard & image editor",
+        "Technologies and Tools: Microsoft SQL Server, DB2, Microsoft SQL Integration services, WPF, WCF, Silverlight, ADO.NET SQL, Crystal Reports"
+      ]
+    },
+    {
+      "company": "Partian",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2009-01-01",
+      "endDate": "2010-03-01",
+      "summary": " Full JavaScript based client framework (ZINO) including features like xml markup, client side proxy builder for web services, UI controls. Office automation software (Dario) embracing SOA architecture and exploiting WCF using ZINO framework",
+      "highlights": [
+        "Performed both frontend and backend development of the project",
+        "Developed a proxy builder for WCF services for client applications",
+        "Technologies and Tools: Microsoft SQL Server, Microsoft BizTalk, .NET, c#, BPMN, Workflow, JavaScript"
+      ]
+    },
+    {
+      "company": "Next2Friends.com",
+      "position": "Developer",
+      "website": "Next2Friends.com",
+      "startDate": "2007-11-01",
+      "endDate": "2008-07-01",
+      "summary": "Advanced social networking platform tailored for mobile devices and streaming real-time video from the mobile to the web",
+      "highlights": [
+        "Designed and developed a complex n-tier web application",
+        "Designed and implemented database entities (tables, stored procedures)",
+        "Utilized multiple design and architectural patterns",
+        "Technologies and Tools: Microsoft SQL Server, VSS, .NET, C#, ASP.NET, SQL"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Belarusian National Technical University",
+      "area": "Software of information technologies",
+      "studyType": "Bachelor",
+      "startDate": "2002-09-01",
+      "endDate": "2007-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Belarusian National Technical University",
+      "area": "Information technologies and systems",
+      "studyType": "Master",
+      "startDate": "2007-09-01",
+      "endDate": "2008-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": [
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Agile",
+      "level": "",
+      "keywords": [
+        "Scrum",
+        "Continuous Integration‍",
+        "Acceptance Test-Driven Development/Behaviour Driven Development‍"
+      ]
+    },
+    {
+      "name": "Business intelligence tools",
+      "level": "",
+      "keywords": [
+        "MS SQL Analysis Services‍ ",
+        "MS SQL Integration Services‍"
+      ]
+    },
+    {
+      "name": ".NET technologies ",
+      "level": "",
+      "keywords": [
+        "ADO.NET",
+        "Entity Framework‍",
+        "LINQ‍",
+        "Silverlight",
+		"WPF",
+        "NHibernate‍  ",
+        "Spring.net‍",
+        "WCF"
+      ]
+    },
+    {
+      "name": "Internet technologies",
+      "level": "",
+      "keywords": [
+        "AJAX‍",
+        "OData‍",
+        "XML/XSL/XSLT‍ "
+      ]
+    },
+    {
+      "name": "Java script frameworks",
+      "level": "",
+      "keywords": [
+        "AngularJS‍",
+		"Bootstrap‍",
+		"d3.js‍",
+		"ExtJS‍",
+		"Jade‍",
+		"JQuery‍",
+		"‍ReactJS‍",
+		"RequireJS‍",
+        "Three.js",
+		"lodash"
+      ]
+    },
+    {
+      "name": "Software management",
+      "level": "",
+      "keywords": [
+        "JIRA‍",
+        "Microsoft TFS‍ "
+      ]
+    },
+    {
+      "name": "Version control system",
+      "level": "",
+      "keywords": [
+        "GIT",
+        "TFS"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "C#‍",
+        "T-SQL‍ ",
+        "MDX",
+        "JavaScript",
+        "Haskell"
+      ]
+    },
+    {
+      "name": "UXD",
+      "level": "",
+      "keywords": [
+        "CSS",
+        "HTML",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Building tools",
+      "level": "",
+      "keywords": [
+        "MSBuild",
+        "Grunt",
+        "Gulp",
+        "Ant",
+        "Maven"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Persian",
+      "fluency": "Native"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Running",
+        "Literature",
+        "Philosophy"
+      ]
+    }
+  ],
+  "references": []
+}
