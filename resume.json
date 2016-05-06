@@ -69,7 +69,7 @@
       ]
     },
     {
-      "company": "Noor etisal",
+      "company": "Noor Etisal",
       "position": "Key Software Developer",
       "website": "",
       "startDate": "2011-05-01",
@@ -88,7 +88,7 @@
       "website": "http://kpp.ir/",
       "startDate": "2010-03-01",
       "endDate": "2011-03-01",
-      "summary": "Bank lottery application \\n ",
+      "summary": "Bank lottery application",
       "highlights": [
         "Was responsible for requirement gathering for product design and application development",
         "Implemented business logic inside stored procedures, inside c# application",
