@@ -151,6 +151,47 @@
   "awards": [],
   "publications": [],
   "skills": [
+      {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "C#‍",
+        "T-SQL‍ ",
+        "MDX",
+        "JavaScript",
+        "Haskell"
+      ]
+    },
+       {
+      "name": ".NET technologies ",
+      "level": "",
+      "keywords": [
+        "ADO.NET",
+        "Entity Framework‍",
+        "LINQ‍",
+        "Silverlight",
+		"WPF",
+        "NHibernate‍  ",
+        "Spring.net‍",
+        "WCF"
+      ]
+    },
+           {
+      "name": "Java script frameworks",
+      "level": "",
+      "keywords": [
+        "AngularJS‍",
+		"Bootstrap‍",
+		"d3.js‍",
+		"ExtJS‍",
+		"Jade‍",
+		"JQuery‍",
+		"‍ReactJS‍",
+		"RequireJS‍",
+        "Three.js",
+		"lodash"
+      ]
+    },
     {
       "name": "NoSQL",
       "level": "",
@@ -175,20 +216,7 @@
         "MS SQL Integration Services‍"
       ]
     },
-    {
-      "name": ".NET technologies ",
-      "level": "",
-      "keywords": [
-        "ADO.NET",
-        "Entity Framework‍",
-        "LINQ‍",
-        "Silverlight",
-		"WPF",
-        "NHibernate‍  ",
-        "Spring.net‍",
-        "WCF"
-      ]
-    },
+   
     {
       "name": "Internet technologies",
       "level": "",
@@ -198,22 +226,7 @@
         "XML/XSL/XSLT‍ "
       ]
     },
-    {
-      "name": "Java script frameworks",
-      "level": "",
-      "keywords": [
-        "AngularJS‍",
-		"Bootstrap‍",
-		"d3.js‍",
-		"ExtJS‍",
-		"Jade‍",
-		"JQuery‍",
-		"‍ReactJS‍",
-		"RequireJS‍",
-        "Three.js",
-		"lodash"
-      ]
-    },
+
     {
       "name": "Software management",
       "level": "",
@@ -230,17 +243,7 @@
         "TFS"
       ]
     },
-    {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "C#‍",
-        "T-SQL‍ ",
-        "MDX",
-        "JavaScript",
-        "Haskell"
-      ]
-    },
+    
     {
       "name": "UXD",
       "level": "",
