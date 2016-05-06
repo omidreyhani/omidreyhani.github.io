@@ -32,7 +32,7 @@
             "summary": "Development of a Calculation Engine and Data Asset Test Tools for a corporation which provides financial, property and consumer information, analytics and business intelligence.",
             "highlights": [
                 "Developing web services using WCF",
-                "Solely responsible for developing frontend UI with AngularJS and .NET web api",
+                "Solely responsible for developing frontend UI with AngularJS and .NET Web API",
                 "Builing application with MVC5",
                 "Designing and developing databases",
                 "Deployment and maintenance of software products",
@@ -53,7 +53,7 @@
                 "Performed technical analysis of latest technologies",
                 "Provided basic guideline for E2E and unit testing",
                 "Implemented business requirements using JavaScript",
-                "Technologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJs, AngularJS, ExtJs, LESS, Twitter Bootstrap"
+                "Technologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJS, AngularJS, ExtJs, LESS, Twitter Bootstrap"
             ]
         },
         {
