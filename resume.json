@@ -62,11 +62,11 @@
             "website": "http://www.galaktika.ru/en/",
             "startDate": "2012-09-01",
             "endDate": "2013-11-01",
-            "summary": " HTML5 Applications for Tablets (jQuery mobile)",
+            "summary": " HTML5 Applications for Tablets",
             "highlights": [
                 "Developed services using WCF",
                 "Built an interface for generating MDX queries to OLAP databases",
-                "Technologies and Tools: SQL Server, MS SQL Analysis Services, jQuery, d3js, ExtJs OLAP, MDX, SSAS .NET, C#, WCF"
+                "Technologies and Tools: SQL Server, MS SQL Analysis Services, jQuery, JQuery mobile, d3js, ExtJs OLAP, MDX, SSAS .NET, C#, WCF"
             ]
         },
         {
