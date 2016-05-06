@@ -193,6 +193,18 @@
             ]
         },
         {
+            "name": "Testing",
+            "level": "",
+            "keywords": [
+                "Karma",
+                "protracor",
+                "NUnit",
+                "Microsoft unit testing framework",
+                "Integration & e2e testing",
+                "Cucumber"
+            ]
+        },
+        {
             "name": "NoSQL",
             "level": "",
             "keywords": [
