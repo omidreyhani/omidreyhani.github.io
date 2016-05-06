@@ -24,15 +24,16 @@
   },
   "work": [
     {
-      "company": "Epam Systems",
+      "company": "EPAM Systems",
       "position": "Senior Engineer",
       "website": "https://epam.com",
       "startDate": "2015-05-01",
       "endDate": "2016-07-01",
-      "summary": "Development of a Calculation Engine for an insurance company",
+      "summary": "Development of a Calculation Engine and Data Asset Test Tools for a corporation which provides financial, property and consumer information, analytics and business intelligence.",
       "highlights": [
         "Developing web services using WCF",
         "Solely responsible for developing frontend UI with angularjs and .net web api",
+        "Builing application with MVC5",
         "Designing and developing databases",
         "Deployment and maintenance of software products",
         "CI using TFS build server and octopus",
