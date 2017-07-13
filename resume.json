@@ -72,6 +72,7 @@
         "Performed technical analysis of latest technologies",
         "Provided basic guideline for E2E and unit testing",
         "Implemented business requirements using JavaScript",
+        "Developed UI Screen using AngularJS",
         "Technologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJS, AngularJS, ExtJs, LESS, Twitter Bootstrap"
       ]
     },
@@ -83,8 +84,9 @@
       "endDate": "2013-11-01",
       "summary": " HTML5 Applications for Tablets",
       "highlights": [
-        "Developed services using WCF",
-        "Built an interface for generating MDX queries to OLAP databases",
+        "Built web interface for generating MDX queries to OLAP databases",
+        "Developed special grid to show OLAP tables in web",
+        "Developed different app prototypes using JavaScript frameworks",
         "Technologies and Tools: SQL Server, MS SQL Analysis Services, jQuery, JQuery mobile, d3js, ExtJs OLAP, MDX, SSAS .NET, C#, WCF"
       ]
     },
