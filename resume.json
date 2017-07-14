@@ -6,7 +6,7 @@
     "email": "omid.reyhani@gmail.com",
     "phone": "+43 (660) 22-79-747",
     "website": "http://omidreyhani.github.io/",
-    "summary": "Seasoned IT professional with 9+ years of Software Development with special focus on analysis, design and development of client/server, web based and n-tier applications. Strong professional expertise in Web technologies, Javascript Frameworks. Good knowledge in the design and implementation of fully automated continuous integration. Successfully resolved a number of challenges that led to the performance improvement. Ability to work within strict deadlines, self-motivated, conscientious and responsible. Strong analytical and problem-solving skills aimed at improvement efficiency of the solutions implemented. Quick learner, adapts to changing business needs and environment quickly.",
+    "summary": "Seasoned IT professional with 9+ years of Software Development with special focus on analysis, design and development of client/server, web based and n-tier applications. Strong professional expertise in web technologies, Javascript Frameworks. Good knowledge in the design and implementation of fully automated continuous integration. Successfully resolved a number of challenges that led to the performance improvement. Ability to work within strict deadlines, self-motivated, conscientious and responsible. Strong analytical and problem-solving skills aimed at improvement efficiency of the solutions implemented. Quick learner, adapts to changing business needs and environment quickly.",
     "location": {
       "address": "",
       "postalCode": "1220",
@@ -31,8 +31,8 @@
       "endDate": "2017-12-30",
       "summary": "IEAE consultant, creating application for safeguarding nuclear materials",
       "highlights": [
-          "Frontend build processes",
-          "JS unit testing",
+        "Frontend build processes",
+        "JS unit testing",
         "Writing applications which is used by IAEA experts and section heads",
         "Integration with other internal systems",
         "Responsible for bootstrapping both client and server side of the application",
@@ -41,7 +41,6 @@
         "Technologies and Tools: Webpack, Angular 4, TypeScript, Bootstrap, React, Redux, Reactive Programming, WebApi, WCF, d3js, Microsoft SQL Server, EntityFramework"
       ]
     },
-
     {
       "company": "EPAM Systems",
       "position": "Senior Engineer",
@@ -58,7 +57,7 @@
         "CI using TFS build server and Octopus",
         "Implementing unit and integration tests",
         "Daily meeting with customers from USA",
-        "Technologies and Tools: TFS, Microsoft SQL Server, .NET, WCF, C#, AngularJS"
+        "Technologies and Tools: AngularJS, JQuery, e2e testing, TFS, Microsoft SQL Server, .NET, WCF, C#"
       ]
     },
     {
@@ -71,7 +70,7 @@
       "highlights": [
         "Performed technical analysis of latest technologies",
         "Provided basic guideline for E2E and unit testing",
-        "Implemented business requirements using JavaScript",
+        "Implemented business requirements using AngularJS",
         "Developed UI Screen using AngularJS",
         "Technologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJS, AngularJS, ExtJs, LESS, Twitter Bootstrap"
       ]
@@ -85,7 +84,7 @@
       "summary": " HTML5 Applications for Tablets",
       "highlights": [
         "Built web interface for generating MDX queries to OLAP databases",
-        "Developed special grid to show OLAP tables in web",
+        "Developed special grid to show OLAP tables in the web",
         "Developed different app prototypes using JavaScript frameworks",
         "Technologies and Tools: SQL Server, MS SQL Analysis Services, jQuery, JQuery mobile, d3js, ExtJs OLAP, MDX, SSAS .NET, C#, WCF"
       ]
@@ -101,7 +100,7 @@
         "Developed application logic using C#",
         "Was responsible for designing and coding",
         "Performed unit testing",
-        "Technologies and Tools: Microsoft SQL Server, .NET, WPF, ASP.NET, C#"
+        "Technologies and Tools: JQuery, CSS, ASP.NET, Microsoft SQL Server, C#"
       ]
     },
     {
@@ -110,14 +109,14 @@
       "website": "http://kpp.ir/",
       "startDate": "2010-03-01",
       "endDate": "2011-03-01",
-      "summary": "Bank lottery application",
+      "summary": "Bank lottery application, Document Management System",
       "highlights": [
         "Was responsible for requirement gathering for product design and application development",
         "Implemented business logic inside stored procedures, inside c# application",
         "Performed extensive database programming (sync data with bank, lottery algorithms implementations)",
         "Was engaged in designing reports using Crystal Report",
-        "Designed a complete new interface for existing ERP application / Silverlight whiteboard & image editor",
-        "Technologies and Tools: Microsoft SQL Server, DB2, Microsoft SQL Integration services, WPF, WCF, Silverlight, ADO.NET SQL, Crystal Reports"
+        "Designed a complete new interface for existing ERP application using ExtJS / Silverlight whiteboard & image editor",
+        "Technologies and Tools: Extjs, JQuery, Microsoft SQL Server, DB2, Microsoft SQL Integration services, WPF, WCF, Silverlight, ADO.NET SQL, Crystal Reports"
       ]
     },
     {
@@ -128,9 +127,9 @@
       "endDate": "2010-03-01",
       "summary": " Full JavaScript based client framework (ZINO) including features like xml markup, client side proxy builder for web services, UI controls. Office automation software (Dario) embracing SOA architecture and exploiting WCF using ZINO framework",
       "highlights": [
-        "Performed both frontend and backend development of the project",
-        "Developed a proxy builder for WCF services for client applications",
-        "Technologies and Tools: Microsoft SQL Server, Microsoft BizTalk, .NET, c#, BPMN, Workflow, JavaScript"
+        "Was responsible for developing JavaScript UI Controls",
+        "Developed a JavaScript proxy builder for WCF services for client applications",
+        "Technologies and Tools: JavaScript, CSS, XML, XSL, XQuery, Microsoft SQL Server, Microsoft BizTalk, .NET, c#, BPMN, Workflow, JavaScript"
       ]
     },
     {
@@ -141,10 +140,11 @@
       "endDate": "2008-07-01",
       "summary": "Advanced social networking platform tailored for mobile devices and streaming real-time video from the mobile to the web",
       "highlights": [
+        "Was responsible for developing JQuery Plugins",
         "Designed and developed a complex n-tier web application",
         "Designed and implemented database entities (tables, stored procedures)",
         "Utilized multiple design and architectural patterns",
-        "Technologies and Tools: Microsoft SQL Server, VSS, .NET, C#, ASP.NET, SQL"
+        "Technologies and Tools: JavaScript, JQuery, Microsoft SQL Server, .NET, C#, ASP.NET, SQL"
       ]
     }
   ],
@@ -201,13 +201,13 @@
       "name": "Java script frameworks",
       "level": "",
       "keywords": [
-          "React",
-          "Redux",
-          "Rxjs",
-          "Typescript",
-          "Webpack",
-          "NodeJs",
-          "Express",
+        "React",
+        "Redux",
+        "Rxjs",
+        "Typescript",
+        "Webpack",
+        "NodeJs",
+        "Express",
         "AngularJS‍",
         "Bootstrap‍",
         "d3.js‍",
@@ -256,7 +256,6 @@
         "MS SQL Integration Services‍"
       ]
     },
-
     {
       "name": "Internet technologies",
       "level": "",
@@ -266,7 +265,6 @@
         "XML/XSL/XSLT‍ "
       ]
     },
-
     {
       "name": "Software management",
       "level": "",
@@ -283,7 +281,6 @@
         "TFS"
       ]
     },
-
     {
       "name": "UXD",
       "level": "",
@@ -301,7 +298,8 @@
         "Grunt",
         "Gulp",
         "Ant",
-        "Maven"
+        "Maven",
+        "Webpack"
       ]
     },
     {
