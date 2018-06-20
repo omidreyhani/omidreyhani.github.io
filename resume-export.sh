@@ -1,3 +1,3 @@
 #!/bin/bash
-resume export ./index.html --theme Eloquent
+resume export ./index.html --theme eloquent
 
