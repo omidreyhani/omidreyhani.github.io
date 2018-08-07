@@ -28,17 +28,17 @@
       "position": "Senior Software Engineer",
       "website": "http://iaea.org",
       "startDate": "2016-06-20",
-      "endDate": "2018-12-30",
-      "summary": "IAEA consultant, creating application for safeguarding nuclear materials",
+      "endDate": "2018-08-31",
+        "summary": "IAEA consultant (Safeguard), fullsatck developer, work on several different projects within the agency, high level annul planning system for states, integrated planning and scheduling system, reporting and maintenance systems",
       "highlights": [
         "Frontend build processes",
         "JS unit testing",
-        "Writing applications which is used by IAEA experts and section heads",
+        "Writing applications which is used by IAEA experts, technications and section heads",
         "Integration with other internal systems",
         "Responsible for bootstrapping both client and server side of the application",
         "Unit testing, integration and e2e testing",
         "CI using TFS build server and InRelease",
-        "Technologies and Tools: Webpack, Angular 4, TypeScript, Bootstrap, React, Redux, Reactive Programming, WebApi, WCF, d3js, Microsoft SQL Server, EntityFramework"
+        "Technologies and Tools: Webpack, Angular, AngularJs, TypeScript, Bootstrap, Reactive Programming, WebApi, WCF, d3js, Microsoft SQL Server, EntityFramework"
       ]
     },
     {
@@ -208,14 +208,14 @@
         "Webpack",
         "NodeJs",
         "Express",
-        "AngularJS‍",
-        "Bootstrap‍",
-        "d3.js‍",
-        "ExtJS‍",
-        "Jade‍",
-        "JQuery‍",
-        "‍ReactJS‍",
-        "RequireJS‍",
+        "AngularJS",
+        "Bootstrap",
+        "d3.js",
+        "ExtJS",
+        "Jade",
+        "JQuery",
+        "ReactJS",
+        "RequireJS",
         "Three.js",
         "lodash"
       ]
@@ -244,33 +244,33 @@
       "level": "",
       "keywords": [
         "Scrum",
-        "Continuous Integration‍",
-        "Acceptance Test-Driven Development/Behaviour Driven Development‍"
+        "Continuous Integration",
+        "Acceptance Test-Driven Development/Behaviour Driven Development"
       ]
     },
     {
       "name": "Business intelligence tools",
       "level": "",
       "keywords": [
-        "MS SQL Analysis Services‍",
-        "MS SQL Integration Services‍"
+        "MS SQL Analysis Services",
+        "MS SQL Integration Services"
       ]
     },
     {
       "name": "Internet technologies",
       "level": "",
       "keywords": [
-        "AJAX‍",
-        "OData‍",
-        "XML/XSL/XSLT‍ "
+        "AJAX",
+        "OData",
+        "XML/XSL/XSLT"
       ]
     },
     {
       "name": "Software management",
       "level": "",
       "keywords": [
-        "JIRA‍",
-        "Microsoft TFS‍ "
+        "JIRA",
+        "Microsoft TFS"
       ]
     },
     {
