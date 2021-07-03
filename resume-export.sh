@@ -1,4 +1,5 @@
 #!/bin/bash
+node skills.js
 #npm install jsonresume-theme-paper
 
 #resume export ./index.html --theme eloquent
@@ -7,7 +8,7 @@
 #resume export ./omid.pdf --theme kendall --format pdf
 #resume export ./index.html --theme eloquent 
 #resume export ./omid-reyhani-resume.pdf --theme  paper --format pdf
-resume export ./omid-reyhani-resume.pdf --format pdf
+resume export ./omid-reyhani-resume.pdf --format pdf --theme stackoverflow
 
 
 

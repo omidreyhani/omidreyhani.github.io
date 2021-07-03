@@ -3,11 +3,12 @@
   "basics": {
     "name": "Omid Reyhani",
     "label": "Senior Software Engineer at International Atomic Energy Agency (IAEA)",
-    "picture":"https://www.gravatar.com/avatar/cdc1c5b7508ccbc000b5cb77ba03258f",
+    "picture": "https://omidreyhani.github.io/me3.png",
     "email": "omid.reyhani@gmail.com",
     "phone": "+43(660)2279747",
     "url": "http://omidreyhani.github.io/",
-    "summary": "Hands-on experience with Angular and React and other frontend frameworks. \n14 years of experience writing large complex web-based enterprise applications with .NET (with c#) \nAbility to track and resolve issues with minimal supervision\n\n Nodejs, JavaScript, TypeScript, HTML 5, CSS, SASS, Angular, React, Vue.js, NgRX, RxJS, .NET, .NET core, C#, ASP.NET, Entity Framework, Microservices, Docker, SQL, RabbitMQ, TDD, CI/CD, Agile, Scrum, Git ",
+    "summary-short": "Hands-on experience with Angular and React and other frontend frameworks. \n14 years of experience writing large complex web-based enterprise applications with .NET (with c#) \nAbility to track and resolve issues with minimal supervision\n\n",
+    "summary": "Hands-on experience with Angular and React and other frontend frameworks. \n14 years of experience writing large complex web-based enterprise applications with .NET (with c#) \nAbility to track and resolve issues with minimal supervision\n\nNodejs, JavaScript, TypeScript, HTML 5, CSS, SASS, Angular, React, Vue.js, NgRX, RxJS, d3.js, .NET, .NET core, C#, ASP.NET, Entity Framework, Microservices, Docker, SQL, RabbitMQ, SDLC, TDD, CI/CD, Agile, Scrum, Git",
     "location": {
       "countryCode": "US",
       "address": "Austria"
@@ -17,7 +18,8 @@
         "network": "LinkedIn",
         "username": "reyhani",
         "url": "https://www.linkedin.com/in/reyhani/"
-      }]
+      }
+    ]
   },
   "work": [
     {
@@ -118,23 +120,53 @@
     {
       "name": "Software Engineer",
       "level": "Master",
-      "keywords": ["Nodejs","JavaScript","TypeScript","HTML 5", "CSS","SASS","Angular","React","Vue.js","NgRX","RxJS","d3.js"]
+      "keywords": [
+        "Nodejs",
+        "JavaScript",
+        "TypeScript",
+        "HTML 5",
+        "CSS",
+        "SASS",
+        "Angular",
+        "React",
+        "Vue.js",
+        "NgRX",
+        "RxJS",
+        "d3.js"
+      ]
     },
     {
       "name": "Backend",
       "level": "",
-      "keywords": [".NET",".NET core","C#","ASP.NET","Entity Framework","Microservices","Docker","SQL","RabbitMQ"]
+      "keywords": [
+        ".NET",
+        ".NET core",
+        "C#",
+        "ASP.NET",
+        "Entity Framework",
+        "Microservices",
+        "Docker",
+        "SQL",
+        "RabbitMQ"
+      ]
     },
     {
       "name": "Everything else",
       "level": "",
-      "keywords": ["SDLC","TDD","CI/CD","Agile","Scrum","Git"]
+      "keywords": [
+        "SDLC",
+        "TDD",
+        "CI/CD",
+        "Agile",
+        "Scrum",
+        "Git"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency":"Fluent"
+      "fluency": "Fluent"
     },
     {
       "language": "Russian",
