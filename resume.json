@@ -8,7 +8,7 @@
     "phone": "+43(660)2279747",
     "url": "http://omidreyhani.github.io/",
     "summary-short": "Hands-on experience with Angular and React and other frontend frameworks. \n14 years of experience writing large complex web-based enterprise applications with .NET (with c#) \nAbility to track and resolve issues with minimal supervision\n\n",
-    "summary": "Hands-on experience with Angular and React and other frontend frameworks. \n14 years of experience writing large complex web-based enterprise applications with .NET (with c#) \nAbility to track and resolve issues with minimal supervision\n\nNodejs, JavaScript, TypeScript, HTML 5, CSS, SASS, Angular, React, Vue.js, NgRX, RxJS, d3.js, .NET, .NET core, C#, ASP.NET, Entity Framework, Microservices, Docker, SQL, RabbitMQ, SDLC, TDD, CI/CD, Agile, Scrum, Git",
+    "summary": "Hands-on experience with Angular and React and other frontend frameworks. \n14 years of experience writing large complex web-based enterprise applications with .NET (with c#) \nAbility to track and resolve issues with minimal supervision\n\nNodejs, JavaScript, TypeScript, HTML 5, CSS, SASS, Angular, React, Vue.js, NgRX, RxJS, d3.js, .NET, .NET core, C#, ASP.NET, Entity Framework, Microservices, SQL, RabbitMQ, SDLC, TDD, CI/CD, Agile, Scrum, Git, Docker, kubernetes",
     "location": {
       "countryCode": "US",
       "address": "Austria"
@@ -28,7 +28,7 @@
       "startDate": "2016-07-31",
       "endDate": "2021-01-01",
       "highlights": [],
-      "summary": "Developing, enhancing secure applications (Angular, ASP.NET), providing easy interface for states and regional authorities to foster the exchange of scientific and technical information.  data access, report, business intelligence and …\nIntegration with other internal systems\nResponsible for bootstrapping both client and server side of the applications\nUnit testing, integration and e2e testing\nCI using TFS build server and InRelease\nTechnologies and Tools: Angular, Typescript, ASP.NET, .NET, C#, JavaScript, SQL, Entity Framework, .Net Core, NodeJs, Bootstrap, Sass, Git, Docker, TDD, Bootstrap, CQRS, Event Sourcing, RabbitMQ",
+      "summary": "Developing, enhancing secure applications (Angular, ASP.NET), providing an easy interface for states and regional authorities to foster the exchange of scientific and technical information.  data access, report, business intelligence, and …\nIntegration with other internal systems\nResponsible for bootstrapping both client and server-side of the applications\nUnit testing, integration and e2e testing\nCI using TFS build server and InRelease\nTechnologies and Tools: Angular, Typescript, ASP.NET, .NET, C#, JavaScript, SQL, Entity Framework, .Net Core, NodeJs, Bootstrap, Sass, Git, Docker, TDD, Bootstrap, CQRS, Event Sourcing, RabbitMQ",
       "url": "https://www.linkedin.com/company/iaea/"
     },
     {
@@ -37,16 +37,16 @@
       "startDate": "2015-04-30",
       "endDate": "2016-07-31",
       "highlights": [],
-      "summary": "Project: Development of a Calculation Engine for an insurance company\n\nTasks:  \n\nDeveloping web services using WCF\nSolely responsible for developing frontend UI with angularjs and .net web api\nDesigning and developing databases\nDeployment and maintenance of software products\nCI using TFS build server and Octopus\nImplementing unit and integration tests\nDaily meeting with customers from USA\n\nTechnologies and Tools: TFS, Microsoft SQL Server, .NET, WCF, C#, AngularJs",
+      "summary": "Project: Development of a Calculation Engine for an insurance company\n\nTasks:  \n\nDeveloping web services using WCF\nSolely responsible for developing frontend UI with angularjs and .net web api\nDesigning and developing databases\nDeployment and maintenance of software products\nCI using TFS build server and Octopus\nImplementing unit and integration tests\nDaily meeting with customers from the USA\n\nTechnologies and Tools: TFS, Microsoft SQL Server, .NET, WCF, C#, AngularJs",
       "url": "https://www.linkedin.com/company/epam-systems/"
     },
     {
       "name": "ProntoSoft",
       "position": "Senior Software Engineer",
-      "startDate": "2014-12-31",
+      "startDate": "2014-12-28",
       "endDate": "2015-04-30",
       "highlights": [],
-      "summary": "Project:  Development for irr.ru web site\n\nTasks and Accomplishments:  \n\nPerformed technical analysis of latest technologies\nProvided basic guideline for E2E and unit testing\nImplemented business requirements using JavaScript\n\nTechnologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJs, AngularJS, ExtJs, LESS, Twitter Bootstrap",
+      "summary": "Project:  Development for irr.ru website\n\nTasks and Accomplishments:  \n\nPerformed technical analysis of latest technologies\nProvided basic guidelines for E2E and unit testing\nImplemented business requirements using JavaScript\n\nTechnologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJs, AngularJS, ExtJs, LESS, Twitter Bootstrap",
       "url": "https://www.linkedin.com/company/prontosoft/"
     },
     {
@@ -72,7 +72,7 @@
       "startDate": "2010-03-31",
       "endDate": "2011-05-31",
       "highlights": [],
-      "summary": "Project: Bank lottery application\n\nTasks and Accomplishments:  \n\nWas responsible for requirement gathering for product design and application development\nImplemented business logic inside stored procedures, inside c# application\nPerformed extensive database programming (sync data with bank, lottery algorithms implementations)\nWas engaged in designing reports using Crystal Report\nDesigned a complete new interface for existing ERP application / Silverlight whiteboard & image editor\n\nTechnologies and Tools: Microsoft SQL Server, DB2, Microsoft SQL Integration services, WPF, WCF, Silverlight, ADO.NET SQL, Crystal Reports",
+      "summary": "Project: Bank lottery application\n\nTasks and Accomplishments:  \n\nWas responsible for requirement gathering for product design and application development\nImplemented business logic inside stored procedures, inside c# application\nPerformed extensive database programming (sync data with bank, lottery algorithms implementations)\nWas engaged in designing reports using Crystal Report\nDesigned a completely new interface for existing ERP application / Silverlight whiteboard & image editor\n\nTechnologies and Tools: Microsoft SQL Server, DB2, Microsoft SQL Integration Services, WPF, WCF, Silverlight, ADO.NET SQL, Crystal Reports",
       "url": "https://kpp.ir/"
     },
     {
@@ -81,7 +81,7 @@
       "startDate": "2009-01-31",
       "endDate": "2010-03-31",
       "highlights": [],
-      "summary": "Project: Full JavaScript based client framework (ZINO) including features like xml markup, client side proxy builder for web services, UI controls. Office automation software (Dario) embracing SOA architecture and exploiting WCF using ZINO framework\n\nTasks and Accomplishments:  \n\nPerformed both frontend and backend development of the project\nDeveloped a proxy builder for WCF services for client applications\n\nTechnologies and Tools: Microsoft SQL Server, Microsoft BizTalk, .NET, c#, BPMN, Workflow, JavaScript"
+      "summary": "Project: Full JavaScript-based client framework (ZINO) including features like XML markup, client-side proxy builder for web services, UI controls. Office automation software (Dario) embracing SOA architecture and exploiting WCF using the ZINO framework\n\nTasks and Accomplishments:  \n\nPerformed both frontend and backend development of the project\nDeveloped a proxy builder for WCF services for client applications\n\nTechnologies and Tools: Microsoft SQL Server, Microsoft BizTalk, .NET, c#, BPMN, Workflow, JavaScript"
     },
     {
       "name": "Next2Friends.com",
@@ -137,7 +137,7 @@
     },
     {
       "name": "Backend",
-      "level": "",
+      "level": "Master",
       "keywords": [
         ".NET",
         ".NET core",
@@ -145,21 +145,22 @@
         "ASP.NET",
         "Entity Framework",
         "Microservices",
-        "Docker",
         "SQL",
         "RabbitMQ"
       ]
     },
     {
       "name": "Everything else",
-      "level": "",
+      "level": "Master",
       "keywords": [
         "SDLC",
         "TDD",
         "CI/CD",
         "Agile",
         "Scrum",
-        "Git"
+        "Git",
+        "Docker",
+        "kubernetes"
       ]
     }
   ],
