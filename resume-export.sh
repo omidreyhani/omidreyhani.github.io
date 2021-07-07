@@ -7,16 +7,17 @@ node skills.js
 #resume export ./index.html --theme kendall 
 #resume export ./omid.pdf --theme kendall --format pdf
 #resume export ./index.html --theme eloquent 
-#resume export ./omid-reyhani-resume.pdf --theme  paper --format pdf
-#resume export ./omid-reyhani-resume.pdf --format pdf --theme stackoverflow
-# resume export ./omid-reyhani-resume2.pdf --format pdf --theme caffeine
+
+
+resume export ./omid-reyhani-resume.pdf  --format pdf --theme paper 
+resume export ./omid-reyhani-resume1.pdf --format pdf --theme stackoverflow
+resume export ./omid-reyhani-resume2.pdf --format pdf --theme caffeine
 # resume export ./omid-reyhani-resume3.pdf --format pdf --theme elegant 
-resume export ./omid-reyhani-resume.pdf --format pdf --theme even 
-# resume export ./omid-reyhani-resume5.pdf --format pdf --theme flat 
+resume export ./omid-reyhani-resume4.pdf --format pdf --theme even 
+resume export ./omid-reyhani-resume5.pdf --format pdf --theme flat 
 # resume export ./omid-reyhani-resume6.pdf --format pdf --theme kendall 
 # resume export ./omid-reyhani-resume7.pdf --format pdf --theme material 
 # resume export ./omid-reyhani-resume8.pdf --format pdf --theme slick 
-# resume export ./omid-reyhani-resume9.pdf --format pdf --theme paper 
 
 
 
