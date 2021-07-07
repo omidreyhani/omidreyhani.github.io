@@ -3,7 +3,7 @@
   "basics": {
     "name": "Omid Reyhani",
     "label": "Senior Software Engineer at International Atomic Energy Agency (IAEA)",
-    "picture": "https://omidreyhani.github.io/me3.jpg",
+    "picture": "https://omidreyhani.github.io/me.jpg",
     "email": "omid.reyhani@gmail.com",
     "phone": "+43(660)2279747",
     "url": "http://omidreyhani.github.io/",
@@ -24,42 +24,51 @@
   "work": [
     {
       "name": "International Atomic Energy Agency (IAEA)",
+      "company": "International Atomic Energy Agency (IAEA)",
       "position": "Senior Software Engineer",
       "startDate": "2016-07-31",
       "endDate": "2021-01-01",
       "highlights": [],
       "summary": "Developing, enhancing secure applications (Angular, ASP.NET), providing an easy interface for states and regional authorities to foster the exchange of scientific and technical information.  data access, report, business intelligence, and …\nIntegration with other internal systems\nResponsible for bootstrapping both client and server-side of the applications\nUnit testing, integration and e2e testing\nCI using TFS build server and InRelease\nTechnologies and Tools: Angular, Typescript, ASP.NET, .NET, C#, JavaScript, SQL, Entity Framework, .Net Core, NodeJs, Bootstrap, Sass, Git, Docker, TDD, Bootstrap, CQRS, Event Sourcing, RabbitMQ",
-      "url": "https://www.linkedin.com/company/iaea/"
+      "url": "https://www.linkedin.com/company/iaea/",
+      "website": "https://www.linkedin.com/company/iaea/"
     },
     {
       "name": "EPAM Systems",
+      "company": "EPAM Systems",
       "position": "Senior Engineer",
       "startDate": "2015-04-30",
       "endDate": "2016-07-31",
       "highlights": [],
       "summary": "Project: Development of a Calculation Engine for an insurance company\n\nTasks:  \n\nDeveloping web services using WCF\nSolely responsible for developing frontend UI with angularjs and .net web api\nDesigning and developing databases\nDeployment and maintenance of software products\nCI using TFS build server and Octopus\nImplementing unit and integration tests\nDaily meeting with customers from the USA\n\nTechnologies and Tools: TFS, Microsoft SQL Server, .NET, WCF, C#, AngularJs",
-      "url": "https://www.linkedin.com/company/epam-systems/"
+      "url": "https://www.linkedin.com/company/epam-systems/",
+      "website": "https://www.linkedin.com/company/epam-systems/"
     },
     {
       "name": "ProntoSoft",
+      "company": "ProntoSoft",
       "position": "Senior Software Engineer",
       "startDate": "2014-12-28",
       "endDate": "2015-04-30",
       "highlights": [],
       "summary": "Project:  Development for irr.ru website\n\nTasks and Accomplishments:  \n\nPerformed technical analysis of latest technologies\nProvided basic guidelines for E2E and unit testing\nImplemented business requirements using JavaScript\n\nTechnologies and Tools: MySQL, WebStorm, JIRA, Grunt, NodeJs, AngularJS, ExtJs, LESS, Twitter Bootstrap",
-      "url": "https://www.linkedin.com/company/prontosoft/"
+      "url": "https://www.linkedin.com/company/prontosoft/",
+      "website": "https://www.linkedin.com/company/prontosoft/"
     },
     {
       "name": "Top Soft",
+      "company": "Top Soft",
       "position": "Senior Software Engineer",
       "startDate": "2012-09-30",
       "endDate": "2013-11-30",
       "highlights": [],
       "summary": "Project:  HTML5 Applications for Tablets (jQuery mobile)\n\nTasks and Accomplishments:  \n\nDeveloped services using WCF\nBuilt an interface for generating MDX queries to OLAP databases\nOptimized WCF service\n\nTechnologies and Tools: SQL Server, MS SQL Analysis Services, jQuery, d3js, ExtJs OLAP, MDX, SSAS .NET, C#, WCF",
-      "url": "https://www.linkedin.com/company/galaktika-corp-/"
+      "url": "https://www.linkedin.com/company/galaktika-corp-/",
+      "website": "https://www.linkedin.com/company/galaktika-corp-/"
     },
     {
       "name": "Noor etisal",
+      "company": "Noor etisal",
       "position": "Key Software Developer",
       "startDate": "2011-05-31",
       "endDate": "2012-05-31",
@@ -68,15 +77,18 @@
     },
     {
       "name": "Khobre Pardaz Pars Co.Ltd",
+      "company": "Khobre Pardaz Pars Co.Ltd",
       "position": "Key Software Developer",
       "startDate": "2010-03-31",
       "endDate": "2011-05-31",
       "highlights": [],
       "summary": "Project: Bank lottery application\n\nTasks and Accomplishments:  \n\nWas responsible for requirement gathering for product design and application development\nImplemented business logic inside stored procedures, inside c# application\nPerformed extensive database programming (sync data with bank, lottery algorithms implementations)\nWas engaged in designing reports using Crystal Report\nDesigned a completely new interface for existing ERP application / Silverlight whiteboard & image editor\n\nTechnologies and Tools: Microsoft SQL Server, DB2, Microsoft SQL Integration Services, WPF, WCF, Silverlight, ADO.NET SQL, Crystal Reports",
-      "url": "https://kpp.ir/"
+      "url": "https://kpp.ir/",
+      "website": "https://kpp.ir/"
     },
     {
       "name": "Partian",
+      "company": "Partian",
       "position": "Developer",
       "startDate": "2009-01-31",
       "endDate": "2010-03-31",
@@ -85,12 +97,14 @@
     },
     {
       "name": "Next2Friends.com",
+      "company": "Next2Friends.com",
       "position": "Developer",
       "startDate": "2007-11-30",
       "endDate": "2008-07-31",
       "highlights": [],
       "summary": "Project: Advanced social networking platform tailored for mobile devices and streaming real-time video from the mobile to the web\n\nTasks and Accomplishments:  \n\nDesigned and developed a complex n-tier web application\nDesigned and implemented database entities (tables, stored procedures)\nUtilized multiple design and architectural patterns\n\nTechnologies and Tools: Microsoft SQL Server, VSS, .NET, C#, ASP.NET, SQL",
-      "url": "https://www.linkedin.com/company/next2friends.com/"
+      "url": "https://www.linkedin.com/company/next2friends.com/",
+      "website": "https://www.linkedin.com/company/next2friends.com/"
     }
   ],
   "volunteer": [],
