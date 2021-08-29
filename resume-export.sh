@@ -29,7 +29,8 @@ resume export ./index.html --theme eloquent
 # resume export ./index6.html --theme kendall
 # resume export ./index7.html --theme material
 # resume export ./index8.html --theme mocha-responsive
-# resume export ./index9.html --theme paper
+#resume export ./index9.html --theme paper
 # resume export ./index10.html --theme slick
 
 
+#  paper style.css     .work-listing p {white-space: pre-line; } .work-listing .highlight {display:table}

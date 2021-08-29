@@ -4,6 +4,7 @@
   "description": "[Link to my resume](http://omidreyhani.github.io)",
   "main": "index.js",
   "dependencies": {
+    "jsonresume-theme-bzdev": "0.0.5",
     "jsonresume-theme-caffeine": "^1.2.3",
     "jsonresume-theme-elegant": "^1.16.1",
     "jsonresume-theme-eloquent": "^4.1.0",
